@@ -4,6 +4,9 @@ public class Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("test new branch- develop in github");
+		System.out.println("test new branch- develop in github 2");
+		
 		int c[][]={ {2,4,5},{3,4,7},{5,2,1}};
 		int min=c[0][0];
 		{System.out.println(c[2][0]);}
