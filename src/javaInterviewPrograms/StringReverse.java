@@ -16,8 +16,9 @@ public class StringReverse {
 			System.out.println(str1.charAt(i));
 		}
 	
-		
-		
+		System.out.println("Testdata for github 1");
+		System.out.println("Testdata for github 2");
+		System.out.println("Testdata for github 3");
 	}
 
 }
